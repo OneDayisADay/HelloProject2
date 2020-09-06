@@ -1,0 +1,20 @@
+info face="face" size=256
+common lineHeight=256 scaleW=1030 scaleH=1030 pages=1
+page id=0 file="num_score.png"
+chars count=16
+char id=48 x=0 y=0 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=49 x=258 y=0 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=50 x=0 y=258 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=51 x=258 y=258 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=52 x=516 y=0 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=53 x=516 y=258 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=54 x=0 y=516 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=55 x=258 y=516 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=56 x=516 y=516 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=57 x=774 y=0 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=58 x=774 y=258 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=61 x=774 y=516 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=43 x=0 y=774 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=45 x=258 y=774 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=47 x=516 y=774 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
+char id=37 x=774 y=774 width=256 height=256 xoffset=0 yoffset=0 xadvance=256 page=0 chnl=15
