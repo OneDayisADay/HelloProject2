@@ -1,1 +1,0 @@
-mdoule.exports={r(){require("./fontLoader.js")}};

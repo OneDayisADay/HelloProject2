@@ -1,1 +1,0 @@
-"use strict";module.exports={load(){},unload(){},messages:{openFNT(){Editor.Panel.open("bitmap-font")},openTTF(){Editor.Panel.open("bitmap-font.ttf")}}};
